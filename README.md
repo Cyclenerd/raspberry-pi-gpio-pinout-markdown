@@ -1,5 +1,7 @@
 # Raspberry Pi Pinout
 
+![Bagde: Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=Raspberry-Pi)
+
 Raspberry Pi GPIO pinout:
 
 <!--
